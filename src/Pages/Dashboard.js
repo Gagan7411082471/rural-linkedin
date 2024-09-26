@@ -24,3 +24,5 @@ const DashBoard = () => {
 };
 
 export default DashBoard;
+
+HTMLOptionsCollection;
