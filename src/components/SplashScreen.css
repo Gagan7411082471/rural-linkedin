@@ -1,0 +1,20 @@
+/* src/components/SplashScreen.css */
+.splash-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #007bff;  /* Example background color */
+  color: white;
+}
+
+.splash-logo {
+  width: 150px;  /* Adjust size as needed */
+  margin-bottom: 20px;
+}
+
+.splash-title {
+  font-size: 2rem;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+/* src/Pages/Home.css */
+.home-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.button-container {
+  margin-top: 30px;
+}
+
+.home-button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
